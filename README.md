@@ -26,15 +26,15 @@ The system accepts English text or uploaded documents, processes the content, tr
 
 # ✨ Features
 
-✅ English → Telugu Translation
-✅ English → Hindi Translation
-✅ English → French Translation
-✅ PDF Upload Support
-✅ TXT File Upload Support
-✅ Audio Generation (Text-to-Speech)
-✅ Interactive Streamlit UI
-✅ Local Transformer Inference
-✅ Download Generated Audio (.mp3)
+* English → Telugu Translation
+* English → Hindi Translation
+* English → French Translation
+* PDF Upload Support
+* TXT File Upload Support
+* Audio Generation (Text-to-Speech)
+* Interactive Streamlit UI
+* Local Transformer Inference
+* Download Generated Audio (.mp3)
 
 ---
 
